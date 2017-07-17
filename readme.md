@@ -24,7 +24,7 @@ Make sure that the plugin folder structure looks like this:
 site/plugins/grid-gallery/
 ```
 
-### Include the plugin CSS inside of <head>
+### Include the plugin CSS in your header
 
 ```
 echo css('assets/plugins/grid-gallery/css/grid-gallery.css');
