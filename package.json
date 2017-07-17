@@ -1,0 +1,8 @@
+{
+	"name": "grid-gallery",
+	"description": "Easily add grid galleries to pages",
+	"author": "Lauri Liimatta <mail@lauriliimatta.com>",
+	"version": "1.0.0",
+	"type": "kirby-plugin",
+	"license": "MIT"
+}
